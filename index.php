@@ -37,17 +37,7 @@
                                        </div>
 				               <button class="button-i" type="submit">INGRESAR</button>
 
-				<!-- Login<select class="opcion" name="rol">
-					<option disabled="disabled" selected="selected"> --- Seleccione Su Rol</option>
-					<option>Invitado</option>
-					<option>Director de investigaciones</option>
-					<option>Director de grupo de investigación</option>
-					<option>Coordinador de investigaciones de facultad</option>
-					<option>Director de trabajo de grado</option>
-					<option>Docente investigador</option>
-					<option>Investigador en formación</option>
-					<option>Biblioteca</option>
-					<option>Dirección de tecnología de la universidad</option>-->
+				
 					</select>
 				
             <div class="txtdow">	
